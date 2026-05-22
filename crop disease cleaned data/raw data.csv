@@ -1,0 +1,551 @@
+Record_ID,Date,Crop,Disease,Temperature_C,Humidity_%,Region,Soil_Type,Severity,Yield_Loss_%
+1,,Maize,Unknown,35,75.0,punjab,Sandy,Low,40.0
+2,32-13-2025,Cotton,Rust,35,,Haryana,Loamy,HIGH,10.0
+78,32-13-2025,Maize,Late Blight,100,75.0,Punjab,Clay,low,120.0
+9,2025-06-13,Rice,,28,85.0,Maharashtra,Sandy,,
+5,32-13-2025,Maize,Blast,35,75.0,Chhattisgarh,Loamy,High,55.0
+6,,Tomato,Rust,,85.0,Maharashtra,,Low,40.0
+7,2025-08-14,Maize,Blast,100,75.0,Maharashtra,clay,low,
+8,2025-06-07,Tomto,Blast,100,75.0,Punjab,Sandy,Medium,55.0
+48,,Wheat,Unknown,-5,,Chhattisgarh,Loamy,Low,25.0
+10,,Potato,,25,85.0,Punjab,Sandy,Low,120.0
+11,,Tomato,Brown Spot,N/A,95.0,punjab,Loamy,High,
+12,,rice ,Blast,100,75.0,punjab,,High,40.0
+13,2026-01-04,Wheat,Late Blight,30,,punjab,clay,Low,40.0
+24,,Tomato,Leaf Blight,25,60.0,Maharashtra,Loamy,Medium,
+15,32-13-2025,Rice,Wilt,-5,95.0,Punjab,,Medium,55.0
+33,,Maize,Wilt,100,150.0,Chhattisgarh,Clay,,120.0
+17,2025-10-04,Potato,Unknown,28,95.0,Haryana,Clay,HIGH,40.0
+18,,Rice,Blast,25,,Punjab,Clay,low,
+19,,Wheat,,28,,Haryana,Loamy,Low,55.0
+20,,Cotton,,28,,Haryana,Clay,High,-10.0
+21,,Tomato,Brown Spot,35,85.0,punjab,Sandy,Medium,25.0
+22,,Wheat,Brown Spot,100,,Punjab,Sandy,low,
+23,2025-08-04,Tomato,Blast,,85.0,punjab,Clay,Low,25.0
+24,,Maize,Wilt,30,95.0,punjab,Sandy,High,40.0
+95,,Potato,Brown Spot,,,Maharashtra,Sandy,,25.0
+26,,Maize,Wilt,,95.0,Haryana,,Low,120.0
+27,,Maize,Blast,28,150.0,Maharashtra,Sandy,High,
+11,32-13-2025,Potato,Rust,28,60.0,Chhattisgarh,clay,Medium,10.0
+81,32-13-2025,Tomato,Unknown,25,,Haryana,Clay,High,
+30,,Potato,Rust,25,,punjab,clay,High,120.0
+31,,Wheat,Leaf Blight,100,95.0,Haryana,Clay,low,25.0
+14,,wheat,,N/A,60.0,Punjab,Clay,HIGH,25.0
+47,2025-08-22,Tomato,Unknown,25,75.0,Maharashtra,Clay,,10.0
+34,,rice ,Brown Spot,N/A,60.0,punjab,Loamy,low,25.0
+35,32-13-2025,Tomato,Rust,25,95.0,punjab,Clay,Medium,25.0
+36,32-13-2025,Cotton,Wilt,,150.0,Punjab,Loamy,low,55.0
+37,2025-12-29,Cotton,Brown Spot,-5,85.0,Punjab,Sandy,Low,40.0
+38,32-13-2025,Rice,Wilt,-5,75.0,Maharashtra,Sandy,Low,10.0
+39,,rice ,Late Blight,30,95.0,Chhattisgarh,,HIGH,55.0
+40,2026-05-19,Tomato,Unknown,,85.0,Chhattisgarh,Loamy,low,10.0
+41,32-13-2025,wheat,Blast,100,95.0,Punjab,Loamy,Low,
+42,,Cotton,Brown Spot,N/A,150.0,Haryana,,High,25.0
+43,32-13-2025,Tomato,Blast,30,,Punjab,,low,-10.0
+44,2025-06-09,Rice,Wilt,-5,60.0,Haryana,clay,Medium,120.0
+45,,Maize,Brown Spot,N/A,75.0,Haryana,Loamy,low,120.0
+46,,Tomto,Late Blight,25,150.0,punjab,Loamy,High,-10.0
+99,,Potato,Unknown,-5,95.0,punjab,Loamy,High,120.0
+48,32-13-2025,wheat,Late Blight,N/A,150.0,Punjab,Loamy,,25.0
+15,32-13-2025,wheat,Leaf Blight,35,85.0,Punjab,Loamy,low,55.0
+50,2026-04-27,Wheat,Wilt,30,150.0,Chhattisgarh,,,120.0
+66,,Maize,Brown Spot,28,150.0,punjab,Loamy,,
+52,,Tomato,,100,150.0,Haryana,Loamy,,120.0
+53,,Potato,Brown Spot,100,75.0,Maharashtra,clay,low,-10.0
+54,2026-04-24,Tomto,Leaf Blight,100,,Punjab,Clay,HIGH,25.0
+55,,Potato,Brown Spot,28,85.0,Chhattisgarh,Loamy,High,
+5,,Potato,,N/A,60.0,Maharashtra,clay,Low,55.0
+57,32-13-2025,rice ,Rust,28,60.0,Haryana,,HIGH,25.0
+58,2026-05-10,rice ,,,150.0,Maharashtra,,High,40.0
+59,2025-07-29,rice ,Blast,N/A,,Chhattisgarh,Loamy,low,10.0
+60,2026-01-09,Potato,Wilt,35,150.0,Punjab,Sandy,HIGH,-10.0
+61,,Tomato,Brown Spot,N/A,75.0,Chhattisgarh,Clay,HIGH,10.0
+62,2025-06-15,Wheat,Leaf Blight,28,95.0,Maharashtra,Clay,High,10.0
+63,,Tomto,Blast,N/A,95.0,Haryana,Sandy,,40.0
+64,,Tomto,Rust,100,95.0,Chhattisgarh,Clay,,55.0
+65,2025-08-21,wheat,Blast,-5,85.0,Chhattisgarh,,High,55.0
+63,32-13-2025,Cotton,Rust,35,75.0,Maharashtra,Loamy,HIGH,120.0
+67,32-13-2025,Tomato,Rust,30,,Punjab,Loamy,HIGH,55.0
+68,32-13-2025,Tomto,Brown Spot,N/A,95.0,Maharashtra,clay,High,-10.0
+69,,Maize,Blast,35,75.0,Haryana,Loamy,HIGH,40.0
+57,,wheat,Brown Spot,N/A,75.0,Haryana,,Low,
+71,32-13-2025,Rice,Brown Spot,25,85.0,Haryana,Sandy,HIGH,55.0
+72,,Potato,Brown Spot,25,150.0,Chhattisgarh,Sandy,Low,40.0
+34,,rice ,Leaf Blight,35,95.0,Chhattisgarh,Loamy,High,120.0
+25,,rice ,Blast,N/A,,Maharashtra,Sandy,High,
+27,,Wheat,,N/A,85.0,Chhattisgarh,Loamy,low,120.0
+58,2025-09-03,Cotton,,N/A,,Maharashtra,Loamy,,25.0
+77,,wheat,Late Blight,28,85.0,punjab,Loamy,low,25.0
+78,2025-11-07,Maize,Rust,N/A,95.0,Punjab,Sandy,Medium,-10.0
+79,2025-05-29,Cotton,Unknown,,75.0,Punjab,,Medium,
+80,2026-05-20,Wheat,Leaf Blight,35,,Maharashtra,clay,High,
+81,,Maize,Brown Spot,-5,,Maharashtra,Loamy,HIGH,40.0
+58,32-13-2025,Rice,Rust,,60.0,Haryana,,,40.0
+83,2025-08-30,Potato,Rust,100,95.0,Maharashtra,clay,High,
+84,32-13-2025,rice ,Blast,-5,,Chhattisgarh,Clay,Medium,120.0
+85,,Tomto,,25,75.0,punjab,Loamy,Low,55.0
+86,2026-03-17,Potato,Rust,,75.0,Haryana,Loamy,Medium,10.0
+87,2025-10-25,Wheat,,-5,60.0,Chhattisgarh,Loamy,Medium,-10.0
+88,,wheat,Rust,25,60.0,Chhattisgarh,Loamy,Low,55.0
+89,32-13-2025,Tomto,,N/A,75.0,Chhattisgarh,,Low,
+70,,Potato,Wilt,28,150.0,Chhattisgarh,Sandy,High,55.0
+91,2026-02-25,Cotton,Rust,28,,Chhattisgarh,Clay,Medium,10.0
+92,,Maize,Rust,-5,,punjab,Loamy,,55.0
+93,2026-05-01,wheat,Leaf Blight,-5,75.0,Haryana,clay,Medium,120.0
+4,2025-08-06,Tomato,Wilt,25,95.0,Haryana,Clay,,25.0
+95,,Maize,Late Blight,35,75.0,Haryana,Sandy,Low,55.0
+96,32-13-2025,Maize,Brown Spot,-5,75.0,Punjab,Clay,HIGH,
+97,2025-05-30,Wheat,Leaf Blight,N/A,60.0,punjab,clay,low,40.0
+48,,Tomato,Rust,100,95.0,punjab,Loamy,HIGH,25.0
+85,2025-11-18,rice ,Unknown,30,75.0,Haryana,Loamy,Medium,-10.0
+100,32-13-2025,Wheat,Brown Spot,35,75.0,Chhattisgarh,Sandy,High,120.0
+101,2026-01-24,Rice,Brown Spot,-5,85.0,punjab,Loamy,Low,25.0
+102,2025-10-17,Rice,Brown Spot,28,60.0,Haryana,,Low,120.0
+103,2025-12-03,Tomato,Unknown,35,85.0,Haryana,Clay,Low,40.0
+104,,wheat,Wilt,30,150.0,Haryana,Sandy,low,40.0
+87,2026-01-22,Tomto,Late Blight,25,60.0,Punjab,Sandy,,25.0
+106,,Rice,Late Blight,35,60.0,Haryana,,,25.0
+107,2025-07-26,Cotton,,25,95.0,Maharashtra,Loamy,HIGH,-10.0
+108,,Maize,Brown Spot,100,,punjab,Loamy,low,55.0
+109,,Potato,Wilt,25,,Chhattisgarh,Sandy,HIGH,120.0
+110,,Cotton,Brown Spot,30,,punjab,Loamy,High,
+111,,Rice,Brown Spot,,,Punjab,Clay,low,40.0
+87,,Tomto,Blast,28,95.0,punjab,Clay,HIGH,40.0
+113,2026-03-26,Tomato,Late Blight,,60.0,Haryana,Loamy,Low,120.0
+71,32-13-2025,Rice,Wilt,,95.0,Punjab,Sandy,Low,25.0
+115,,Tomato,Brown Spot,N/A,85.0,Haryana,clay,High,25.0
+116,2025-10-04,Wheat,Unknown,,60.0,Punjab,clay,low,40.0
+117,,wheat,Late Blight,28,60.0,Punjab,clay,Medium,-10.0
+118,2025-11-12,Maize,Brown Spot,25,85.0,Haryana,,Medium,
+88,32-13-2025,Tomto,Blast,25,85.0,Chhattisgarh,,,55.0
+120,2025-06-15,Maize,Brown Spot,28,75.0,Maharashtra,Loamy,Low,10.0
+121,2025-12-03,wheat,,,,Punjab,Clay,Low,25.0
+79,,wheat,Rust,30,85.0,Punjab,Loamy,High,25.0
+18,2025-08-17,Tomato,Leaf Blight,,60.0,Punjab,Sandy,Low,10.0
+124,32-13-2025,wheat,Rust,25,,punjab,Clay,HIGH,55.0
+47,32-13-2025,Maize,,N/A,,Haryana,Sandy,,120.0
+126,,rice ,Unknown,35,,Punjab,Loamy,Medium,55.0
+127,2025-10-01,Rice,Unknown,N/A,75.0,Maharashtra,,Medium,25.0
+61,,Potato,Unknown,25,75.0,Maharashtra,clay,low,-10.0
+129,2026-04-26,wheat,Rust,28,95.0,punjab,Sandy,low,55.0
+21,2025-07-16,Maize,,100,95.0,Haryana,clay,low,55.0
+131,2026-03-13,Cotton,Wilt,100,95.0,Maharashtra,Loamy,Low,120.0
+5,,Tomto,Unknown,30,75.0,Haryana,clay,low,25.0
+133,,wheat,Rust,25,85.0,Chhattisgarh,clay,,40.0
+34,32-13-2025,Rice,Unknown,28,95.0,punjab,Sandy,Medium,-10.0
+49,,Tomato,Late Blight,25,75.0,Maharashtra,Sandy,Medium,40.0
+136,32-13-2025,Tomto,Rust,100,95.0,Chhattisgarh,clay,High,25.0
+137,,Cotton,Rust,35,85.0,Punjab,clay,Medium,40.0
+138,32-13-2025,Tomato,Wilt,N/A,75.0,Punjab,Loamy,Low,-10.0
+139,,Tomato,,-5,75.0,punjab,,low,120.0
+140,32-13-2025,wheat,Wilt,-5,60.0,Punjab,,,10.0
+141,,Wheat,Blast,-5,,Punjab,clay,Medium,-10.0
+142,,Potato,Late Blight,-5,85.0,Punjab,Loamy,low,25.0
+143,,Cotton,Unknown,25,150.0,Chhattisgarh,,Medium,10.0
+144,,Cotton,,35,60.0,punjab,Clay,Medium,
+145,2025-12-14,rice ,Late Blight,28,85.0,Chhattisgarh,,Medium,120.0
+146,32-13-2025,Cotton,Leaf Blight,N/A,95.0,Maharashtra,Sandy,,40.0
+147,2026-02-15,Wheat,Blast,30,75.0,Haryana,,Low,-10.0
+148,,Cotton,,-5,75.0,Punjab,,High,-10.0
+149,,Potato,Rust,30,75.0,Punjab,Clay,High,
+84,,wheat,Unknown,-5,150.0,Maharashtra,,,120.0
+151,32-13-2025,wheat,Unknown,100,60.0,Chhattisgarh,Loamy,High,-10.0
+152,32-13-2025,wheat,Rust,N/A,,Chhattisgarh,Loamy,Medium,
+34,,rice ,Late Blight,25,85.0,punjab,Sandy,Medium,55.0
+52,,rice ,Late Blight,-5,60.0,punjab,Clay,High,10.0
+155,,Potato,Wilt,30,,Punjab,clay,Medium,-10.0
+156,,Rice,Late Blight,25,95.0,Chhattisgarh,clay,HIGH,40.0
+157,,Wheat,Rust,35,,Punjab,Clay,HIGH,120.0
+158,,Tomto,Late Blight,,60.0,Maharashtra,Sandy,HIGH,10.0
+159,32-13-2025,Potato,,28,85.0,Chhattisgarh,Sandy,,25.0
+90,2026-01-02,Tomto,Wilt,,150.0,punjab,clay,Medium,40.0
+161,,Rice,Brown Spot,-5,85.0,Maharashtra,Loamy,HIGH,120.0
+162,2026-04-18,Rice,Blast,,95.0,Haryana,Sandy,low,
+163,32-13-2025,wheat,Unknown,,150.0,Maharashtra,Clay,low,55.0
+82,2026-03-25,Rice,Brown Spot,25,150.0,Haryana,,Medium,55.0
+165,,Cotton,Brown Spot,-5,75.0,Maharashtra,,Low,40.0
+166,2025-09-25,Tomato,Brown Spot,100,,Chhattisgarh,Loamy,Medium,120.0
+29,,Wheat,Leaf Blight,-5,75.0,Haryana,Loamy,High,55.0
+168,32-13-2025,Wheat,Leaf Blight,100,85.0,Haryana,Clay,High,120.0
+169,2025-08-08,Wheat,Leaf Blight,100,60.0,punjab,Sandy,low,25.0
+44,,Potato,Late Blight,35,85.0,punjab,Loamy,Medium,55.0
+171,32-13-2025,Tomto,Late Blight,N/A,,Maharashtra,Clay,Medium,25.0
+172,,Potato,Late Blight,-5,,Haryana,Clay,HIGH,
+98,2025-11-04,Maize,,100,150.0,Maharashtra,Sandy,Medium,120.0
+56,2025-10-08,Potato,Late Blight,-5,85.0,Haryana,clay,Low,-10.0
+175,,Cotton,Late Blight,100,60.0,Punjab,Sandy,HIGH,10.0
+176,2025-12-22,Rice,,30,,Punjab,,Low,
+177,,Potato,Brown Spot,-5,150.0,punjab,Clay,Low,55.0
+57,2025-08-27,Tomato,Leaf Blight,25,60.0,Chhattisgarh,clay,low,40.0
+179,,Tomto,Brown Spot,25,75.0,Chhattisgarh,clay,Low,10.0
+180,2025-06-02,Cotton,Brown Spot,35,95.0,Punjab,clay,Medium,40.0
+69,,Tomato,Wilt,100,85.0,Chhattisgarh,,High,-10.0
+67,32-13-2025,rice ,Rust,30,75.0,Punjab,Loamy,High,-10.0
+66,32-13-2025,Wheat,Late Blight,,60.0,punjab,Sandy,Low,10.0
+54,32-13-2025,Potato,Wilt,,95.0,Punjab,Clay,low,-10.0
+22,32-13-2025,Wheat,Blast,30,,Punjab,,,25.0
+2,,rice ,,100,85.0,Punjab,Loamy,Low,55.0
+29,,wheat,Late Blight,28,85.0,punjab,Sandy,High,10.0
+188,2025-06-08,wheat,Brown Spot,-5,85.0,Maharashtra,clay,Medium,
+189,2026-02-23,wheat,Rust,,85.0,Chhattisgarh,Clay,Medium,10.0
+190,,Cotton,Wilt,35,75.0,punjab,Loamy,,120.0
+97,2025-07-27,Tomto,,28,,Punjab,Sandy,Low,
+192,,Tomto,Rust,28,60.0,Punjab,Clay,HIGH,-10.0
+61,,Cotton,Wilt,30,85.0,punjab,clay,low,55.0
+194,,wheat,,,85.0,Haryana,Clay,low,
+3,,Wheat,Unknown,30,150.0,Punjab,Loamy,Medium,55.0
+196,,Wheat,Brown Spot,100,150.0,Maharashtra,clay,HIGH,
+197,32-13-2025,Rice,Rust,30,60.0,Chhattisgarh,Sandy,Medium,-10.0
+198,,Wheat,Wilt,35,95.0,Maharashtra,,,
+199,2026-03-03,wheat,,N/A,95.0,punjab,Clay,High,-10.0
+200,,Tomato,Leaf Blight,-5,95.0,Haryana,,,40.0
+201,,Maize,,100,,Maharashtra,Loamy,HIGH,-10.0
+34,,Wheat,Wilt,100,95.0,Punjab,clay,,40.0
+203,,rice ,Wilt,-5,75.0,Maharashtra,Sandy,HIGH,-10.0
+57,,Rice,Unknown,-5,150.0,Haryana,Clay,Low,25.0
+205,,Rice,Blast,30,150.0,Chhattisgarh,Clay,HIGH,
+206,32-13-2025,Potato,Leaf Blight,-5,95.0,Maharashtra,,low,55.0
+207,,Rice,,35,150.0,Haryana,Sandy,low,55.0
+208,32-13-2025,Potato,Blast,35,150.0,Chhattisgarh,,,10.0
+209,,Potato,Wilt,25,60.0,Haryana,,Low,120.0
+210,2025-10-28,Tomato,Unknown,25,,punjab,,low,40.0
+86,32-13-2025,Cotton,Unknown,,150.0,punjab,,Medium,25.0
+89,,Cotton,Blast,28,75.0,Haryana,Clay,High,120.0
+213,32-13-2025,Tomato,Brown Spot,100,60.0,Haryana,clay,HIGH,55.0
+214,32-13-2025,Maize,Unknown,,,Haryana,Sandy,High,55.0
+215,32-13-2025,Potato,Wilt,35,75.0,punjab,,HIGH,55.0
+216,32-13-2025,Cotton,Blast,-5,85.0,punjab,,low,55.0
+99,32-13-2025,Wheat,Brown Spot,30,85.0,Maharashtra,Sandy,High,55.0
+218,,Wheat,Brown Spot,,60.0,Maharashtra,clay,,
+219,,Maize,Late Blight,25,75.0,Haryana,Loamy,Low,10.0
+220,2026-04-19,wheat,Late Blight,-5,75.0,Punjab,,low,
+83,,Cotton,Leaf Blight,,,Maharashtra,Sandy,Medium,25.0
+222,2025-12-08,rice ,Leaf Blight,100,95.0,Punjab,Sandy,High,10.0
+223,,Cotton,Blast,28,,Haryana,,HIGH,120.0
+224,,wheat,Blast,25,150.0,punjab,clay,Low,
+225,,Tomato,,100,,Punjab,Clay,Medium,40.0
+94,2026-03-24,Potato,Rust,28,95.0,punjab,,Medium,120.0
+227,2026-05-08,Rice,Blast,28,75.0,Haryana,clay,HIGH,10.0
+228,,Tomto,,N/A,60.0,Chhattisgarh,clay,HIGH,-10.0
+90,32-13-2025,Tomto,Brown Spot,100,75.0,Punjab,Sandy,,40.0
+70,32-13-2025,Maize,Rust,100,,Punjab,Loamy,HIGH,25.0
+231,,Potato,Brown Spot,,,Punjab,Sandy,High,-10.0
+15,32-13-2025,Cotton,Wilt,25,,Chhattisgarh,Loamy,Medium,55.0
+233,,Potato,,35,75.0,Punjab,clay,Medium,120.0
+95,32-13-2025,Wheat,,28,150.0,punjab,Clay,Medium,120.0
+68,,Potato,Unknown,100,150.0,punjab,,,
+90,2025-12-06,Cotton,Blast,25,150.0,Chhattisgarh,Sandy,High,
+237,,Maize,Blast,N/A,85.0,Haryana,,Low,
+238,,Cotton,Wilt,N/A,85.0,Punjab,Clay,Low,55.0
+77,32-13-2025,Potato,Blast,25,,Punjab,Sandy,HIGH,120.0
+11,,Rice,Late Blight,100,60.0,Chhattisgarh,Loamy,HIGH,55.0
+58,32-13-2025,Rice,Leaf Blight,-5,,Chhattisgarh,clay,,-10.0
+242,,Tomto,Rust,30,95.0,Maharashtra,Loamy,Medium,25.0
+243,32-13-2025,Rice,Leaf Blight,-5,60.0,punjab,Clay,low,25.0
+244,,Maize,Blast,-5,75.0,Maharashtra,Sandy,High,
+49,2026-02-21,Maize,Blast,30,75.0,Haryana,,Medium,40.0
+246,32-13-2025,Maize,Unknown,,150.0,Chhattisgarh,Loamy,,120.0
+247,,wheat,Brown Spot,30,85.0,Maharashtra,clay,HIGH,-10.0
+248,,Wheat,Rust,35,60.0,Haryana,,High,-10.0
+99,,rice ,Leaf Blight,N/A,85.0,Punjab,Clay,Medium,120.0
+250,32-13-2025,Wheat,Brown Spot,100,60.0,punjab,,High,
+251,,Wheat,Brown Spot,35,60.0,Haryana,Clay,Medium,120.0
+252,2025-07-11,Maize,Rust,35,,Maharashtra,clay,Medium,40.0
+253,32-13-2025,wheat,Late Blight,25,75.0,Maharashtra,clay,High,40.0
+24,32-13-2025,Tomato,Unknown,30,150.0,punjab,,Medium,25.0
+255,,Tomto,,28,150.0,Haryana,clay,,40.0
+256,,Tomato,Brown Spot,,85.0,Maharashtra,Loamy,low,120.0
+75,2025-11-20,Tomto,Rust,-5,150.0,punjab,clay,Medium,10.0
+258,2025-10-03,rice ,Late Blight,100,60.0,Punjab,Loamy,High,25.0
+259,,Maize,Late Blight,100,75.0,Haryana,Loamy,,-10.0
+39,,Potato,Rust,-5,60.0,punjab,Loamy,HIGH,10.0
+53,2025-10-16,Wheat,Late Blight,28,95.0,Haryana,Loamy,Low,-10.0
+262,32-13-2025,wheat,Wilt,,60.0,Maharashtra,Loamy,High,40.0
+263,,Cotton,Rust,30,85.0,Maharashtra,clay,low,55.0
+264,,wheat,Wilt,,75.0,Punjab,Loamy,High,25.0
+265,,Tomto,Wilt,,85.0,Chhattisgarh,Clay,,10.0
+266,,Rice,,100,85.0,Haryana,clay,low,-10.0
+267,,Wheat,Wilt,100,75.0,Chhattisgarh,Sandy,,25.0
+268,32-13-2025,rice ,Brown Spot,100,95.0,Punjab,Loamy,HIGH,55.0
+269,,Cotton,Rust,N/A,75.0,Haryana,Loamy,,55.0
+270,,Tomto,Leaf Blight,28,85.0,punjab,clay,HIGH,25.0
+27,,wheat,Late Blight,28,150.0,punjab,Loamy,,25.0
+272,,Maize,,35,95.0,Punjab,Clay,HIGH,10.0
+273,32-13-2025,Cotton,Rust,N/A,150.0,punjab,,low,10.0
+274,2025-05-30,Tomto,Rust,,150.0,Haryana,Sandy,High,55.0
+275,,Tomto,,35,,Punjab,Clay,Low,-10.0
+40,,Tomto,Unknown,N/A,,Maharashtra,clay,HIGH,25.0
+277,2025-12-09,Rice,Wilt,N/A,,Chhattisgarh,clay,low,40.0
+278,32-13-2025,Maize,Unknown,100,,Maharashtra,Sandy,low,10.0
+279,32-13-2025,Maize,Blast,100,75.0,Maharashtra,clay,low,-10.0
+6,2025-06-28,Wheat,Rust,25,60.0,punjab,Loamy,Medium,10.0
+21,,Wheat,Wilt,100,150.0,Chhattisgarh,,Low,55.0
+282,,Tomto,Leaf Blight,-5,,Chhattisgarh,Loamy,low,55.0
+283,,wheat,Blast,100,150.0,Maharashtra,Loamy,High,
+47,2025-10-26,Potato,,100,60.0,Chhattisgarh,clay,low,10.0
+285,2025-05-27,Potato,Brown Spot,30,150.0,punjab,Loamy,HIGH,
+55,,Maize,Unknown,,150.0,Maharashtra,Clay,Low,120.0
+23,2025-08-12,Cotton,,30,150.0,Punjab,Loamy,,55.0
+288,,Maize,,100,75.0,punjab,,low,40.0
+289,,wheat,Blast,100,60.0,punjab,Sandy,,120.0
+1,32-13-2025,Rice,Brown Spot,100,60.0,Haryana,clay,High,-10.0
+38,2025-12-21,Tomto,Leaf Blight,100,,Chhattisgarh,clay,High,55.0
+90,2025-05-30,Wheat,Rust,100,,Haryana,,High,10.0
+74,32-13-2025,Tomato,Rust,30,85.0,Punjab,Loamy,low,55.0
+48,,Cotton,Leaf Blight,35,,Maharashtra,Loamy,low,-10.0
+1,,Potato,Rust,100,95.0,Maharashtra,Sandy,low,
+296,32-13-2025,rice ,Rust,100,75.0,Haryana,Loamy,,
+297,,Potato,Wilt,25,60.0,Maharashtra,Sandy,low,10.0
+64,32-13-2025,Potato,Blast,100,95.0,punjab,Clay,low,120.0
+50,,rice ,Blast,25,85.0,Chhattisgarh,clay,High,25.0
+300,2025-06-28,Tomto,Late Blight,35,,punjab,Sandy,Low,40.0
+301,32-13-2025,Potato,Unknown,28,75.0,Haryana,Loamy,HIGH,10.0
+302,,Cotton,Wilt,28,60.0,Maharashtra,,Medium,25.0
+303,32-13-2025,Maize,Leaf Blight,28,60.0,Maharashtra,clay,low,25.0
+67,2026-04-07,wheat,Leaf Blight,N/A,75.0,Chhattisgarh,Clay,Low,120.0
+73,,Maize,Rust,-5,85.0,Punjab,Sandy,low,-10.0
+306,2025-11-27,Maize,Rust,N/A,95.0,Punjab,Loamy,low,40.0
+307,32-13-2025,Potato,Unknown,25,75.0,punjab,Sandy,HIGH,25.0
+308,,Maize,Leaf Blight,25,150.0,Maharashtra,Loamy,HIGH,10.0
+309,,rice ,Wilt,-5,,Maharashtra,Clay,Medium,40.0
+310,,Wheat,Unknown,28,85.0,Maharashtra,Sandy,Medium,120.0
+87,32-13-2025,rice ,,100,60.0,Haryana,Sandy,High,10.0
+93,2025-06-05,wheat,Leaf Blight,-5,95.0,Maharashtra,,HIGH,-10.0
+313,32-13-2025,wheat,Leaf Blight,35,150.0,Punjab,Clay,HIGH,
+314,,Rice,,28,150.0,Chhattisgarh,clay,low,
+22,,wheat,Blast,,95.0,Maharashtra,Sandy,low,-10.0
+316,,Tomto,Wilt,-5,60.0,Haryana,clay,low,25.0
+317,,Cotton,,30,150.0,Chhattisgarh,Loamy,HIGH,
+68,32-13-2025,Tomato,Rust,30,85.0,punjab,Clay,low,-10.0
+319,,Cotton,Brown Spot,-5,85.0,Maharashtra,clay,HIGH,10.0
+320,,Tomato,Unknown,N/A,75.0,Punjab,Sandy,Medium,120.0
+321,2026-05-13,Tomto,,30,85.0,punjab,clay,Low,25.0
+322,32-13-2025,rice ,Brown Spot,25,150.0,Chhattisgarh,clay,low,
+323,,Cotton,Blast,,75.0,Punjab,Sandy,,120.0
+66,2026-02-14,rice ,Leaf Blight,,60.0,Punjab,Clay,Medium,55.0
+43,,Rice,Wilt,28,85.0,Maharashtra,,low,55.0
+326,,wheat,Brown Spot,-5,150.0,Maharashtra,Clay,low,25.0
+55,32-13-2025,Maize,Unknown,100,95.0,Punjab,,Low,-10.0
+58,,rice ,Rust,-5,,Haryana,Sandy,High,55.0
+329,,Rice,Wilt,25,75.0,Maharashtra,Sandy,High,40.0
+330,,Tomato,Blast,25,,Punjab,,low,40.0
+37,2026-03-18,wheat,Unknown,28,60.0,Chhattisgarh,,low,120.0
+332,,rice ,,-5,60.0,Punjab,Sandy,Low,55.0
+99,,Wheat,Unknown,N/A,95.0,Maharashtra,Loamy,HIGH,
+334,32-13-2025,Wheat,Brown Spot,N/A,95.0,Punjab,Sandy,low,-10.0
+35,,Cotton,Wilt,100,60.0,Haryana,Loamy,,40.0
+336,32-13-2025,Rice,Late Blight,25,85.0,Haryana,Clay,,
+337,,rice ,,,,punjab,Clay,,
+338,,Potato,Leaf Blight,35,150.0,Chhattisgarh,Loamy,low,10.0
+339,,Potato,Wilt,,150.0,Chhattisgarh,clay,HIGH,55.0
+86,,Cotton,Leaf Blight,N/A,85.0,Maharashtra,Loamy,HIGH,10.0
+341,32-13-2025,Cotton,Rust,100,85.0,Punjab,Clay,low,10.0
+342,,Wheat,Late Blight,35,75.0,Maharashtra,Clay,,10.0
+343,,rice ,Late Blight,,85.0,punjab,Clay,Medium,
+344,32-13-2025,wheat,Blast,-5,,Maharashtra,Clay,Medium,-10.0
+7,32-13-2025,rice ,Leaf Blight,100,150.0,Haryana,Clay,Medium,10.0
+31,,Potato,Unknown,-5,,Maharashtra,Loamy,High,120.0
+39,,rice ,,,75.0,Maharashtra,,low,-10.0
+27,2026-01-15,Wheat,Blast,100,60.0,Chhattisgarh,clay,Medium,55.0
+349,32-13-2025,Cotton,Rust,25,85.0,Chhattisgarh,Clay,High,40.0
+20,,Tomto,Unknown,,85.0,Chhattisgarh,Sandy,HIGH,-10.0
+351,,Maize,,25,85.0,punjab,,low,40.0
+352,2026-02-15,wheat,Brown Spot,100,60.0,Maharashtra,clay,low,40.0
+353,,rice ,Brown Spot,25,,Chhattisgarh,Loamy,Medium,25.0
+354,2025-06-17,Tomto,Unknown,,60.0,Haryana,Sandy,HIGH,-10.0
+355,,Tomto,Leaf Blight,N/A,95.0,Maharashtra,Loamy,Medium,
+356,2025-12-17,rice ,Brown Spot,25,95.0,Maharashtra,Loamy,HIGH,40.0
+357,32-13-2025,Cotton,Late Blight,,85.0,Maharashtra,Loamy,Low,25.0
+358,32-13-2025,Wheat,Rust,25,60.0,Punjab,clay,High,
+359,32-13-2025,Cotton,Unknown,28,60.0,Haryana,clay,HIGH,120.0
+46,2026-03-14,Potato,Blast,-5,60.0,Chhattisgarh,Loamy,Medium,55.0
+361,,Rice,,100,85.0,punjab,Loamy,HIGH,120.0
+100,,Rice,Wilt,28,150.0,Maharashtra,,,
+363,,Maize,Blast,28,,Maharashtra,,Low,40.0
+364,2025-07-26,Tomto,Unknown,35,85.0,punjab,Clay,HIGH,10.0
+365,32-13-2025,rice ,Late Blight,N/A,,Chhattisgarh,Loamy,HIGH,25.0
+366,32-13-2025,Wheat,Leaf Blight,25,150.0,Maharashtra,Clay,Medium,55.0
+72,,Tomato,Wilt,,,Chhattisgarh,clay,Medium,120.0
+67,2025-11-18,Tomto,Leaf Blight,-5,,punjab,,HIGH,10.0
+369,,Maize,,N/A,,Chhattisgarh,Sandy,High,10.0
+91,,Potato,Late Blight,-5,85.0,Maharashtra,clay,Low,55.0
+371,32-13-2025,Maize,Brown Spot,N/A,,Maharashtra,,,55.0
+16,,Rice,Brown Spot,28,60.0,Maharashtra,Clay,Medium,-10.0
+86,,Wheat,Wilt,30,85.0,Maharashtra,Sandy,HIGH,25.0
+374,,Wheat,Leaf Blight,35,,Haryana,Sandy,HIGH,120.0
+69,,Rice,Rust,25,150.0,Punjab,clay,low,55.0
+58,,Cotton,Wilt,28,95.0,Chhattisgarh,Loamy,,
+377,2025-06-29,Potato,Blast,25,60.0,Maharashtra,Loamy,Low,40.0
+378,,wheat,Late Blight,,75.0,Punjab,,High,25.0
+49,2025-07-05,Rice,Wilt,30,,Punjab,Sandy,Low,55.0
+88,32-13-2025,Wheat,Rust,25,95.0,Maharashtra,Sandy,Low,-10.0
+381,2025-05-23,Tomato,Unknown,,95.0,punjab,,low,
+382,2025-05-30,Potato,Unknown,25,,punjab,,,
+383,,Tomato,Late Blight,28,60.0,Punjab,Clay,,55.0
+32,32-13-2025,Wheat,Leaf Blight,,150.0,punjab,Loamy,Medium,40.0
+385,,Maize,Rust,30,60.0,Punjab,clay,,40.0
+386,,Rice,,28,60.0,Chhattisgarh,Clay,low,-10.0
+387,2025-10-09,Rice,Unknown,30,60.0,Chhattisgarh,Clay,HIGH,10.0
+388,2025-08-16,wheat,Rust,25,75.0,punjab,Clay,Low,-10.0
+389,32-13-2025,rice ,Brown Spot,28,60.0,Haryana,Sandy,Medium,10.0
+22,,Wheat,Late Blight,30,75.0,Punjab,,High,10.0
+391,32-13-2025,Cotton,Rust,100,150.0,Punjab,Sandy,Medium,40.0
+392,32-13-2025,Potato,Brown Spot,N/A,60.0,Punjab,Sandy,Medium,55.0
+393,2026-04-13,Tomto,Wilt,35,75.0,Maharashtra,Loamy,Low,
+34,2026-01-15,Rice,Leaf Blight,100,75.0,Maharashtra,Loamy,,120.0
+50,,Tomato,Brown Spot,N/A,,Haryana,Clay,Low,55.0
+92,2025-11-29,wheat,Brown Spot,25,95.0,Haryana,Loamy,Low,-10.0
+397,2025-07-12,Cotton,Wilt,100,75.0,Chhattisgarh,,,120.0
+398,,Rice,,N/A,60.0,Chhattisgarh,Sandy,Low,55.0
+399,2026-01-20,rice ,Brown Spot,,60.0,Maharashtra,Loamy,HIGH,120.0
+400,,Cotton,Brown Spot,,75.0,Chhattisgarh,Sandy,,25.0
+401,32-13-2025,Tomto,Wilt,,75.0,Haryana,Sandy,Low,120.0
+60,2025-06-09,Rice,,35,150.0,punjab,clay,low,40.0
+61,32-13-2025,Tomato,Unknown,30,,punjab,Loamy,Low,
+69,2025-06-21,Rice,Leaf Blight,,60.0,Haryana,Loamy,High,25.0
+405,,Potato,Late Blight,,150.0,Chhattisgarh,Clay,HIGH,55.0
+406,2026-04-28,Tomato,Blast,,60.0,Haryana,Loamy,low,120.0
+407,2025-10-25,rice ,Late Blight,30,95.0,Maharashtra,clay,,
+53,32-13-2025,Rice,Wilt,N/A,75.0,Maharashtra,Loamy,low,40.0
+409,32-13-2025,rice ,Brown Spot,30,,Haryana,Clay,HIGH,
+410,2026-03-14,Wheat,Late Blight,35,,Haryana,Sandy,low,
+68,32-13-2025,rice ,Unknown,25,95.0,Haryana,clay,Low,55.0
+23,2025-12-24,wheat,Leaf Blight,100,85.0,Maharashtra,Clay,HIGH,-10.0
+413,32-13-2025,rice ,Blast,-5,,Punjab,,HIGH,40.0
+414,,Rice,Rust,25,,Haryana,,low,40.0
+415,,Tomto,Brown Spot,30,150.0,Punjab,,Low,-10.0
+99,2026-04-01,wheat,Brown Spot,-5,75.0,Punjab,Loamy,low,55.0
+417,32-13-2025,Cotton,,30,75.0,Maharashtra,Loamy,HIGH,25.0
+76,,Tomto,Blast,100,60.0,Punjab,Loamy,low,120.0
+50,2025-07-02,Tomto,Leaf Blight,100,95.0,punjab,Sandy,High,120.0
+28,32-13-2025,Wheat,Leaf Blight,25,60.0,Punjab,Loamy,Medium,25.0
+421,32-13-2025,Maize,Rust,100,60.0,Maharashtra,clay,Medium,120.0
+422,32-13-2025,wheat,Late Blight,35,150.0,Maharashtra,,,
+86,32-13-2025,Tomato,Blast,30,85.0,Maharashtra,Clay,Low,55.0
+424,2025-12-20,Potato,Leaf Blight,,60.0,Haryana,Clay,High,55.0
+425,2025-07-04,Rice,Brown Spot,30,95.0,Haryana,Clay,Low,25.0
+426,2025-10-14,rice ,Rust,100,95.0,Punjab,Clay,low,40.0
+54,2025-10-12,Cotton,Leaf Blight,N/A,85.0,Chhattisgarh,Clay,low,120.0
+428,32-13-2025,wheat,Wilt,30,,Chhattisgarh,Loamy,Medium,10.0
+13,,Rice,Leaf Blight,25,85.0,Haryana,clay,Low,-10.0
+71,,Potato,,30,85.0,Punjab,Clay,Low,
+431,2025-12-17,Tomto,Late Blight,-5,,Chhattisgarh,Clay,Medium,40.0
+432,,Tomato,Leaf Blight,-5,75.0,Chhattisgarh,Sandy,,40.0
+433,,Tomato,,30,75.0,Chhattisgarh,clay,,120.0
+38,32-13-2025,Maize,Brown Spot,28,85.0,Chhattisgarh,Clay,Medium,55.0
+37,,Maize,Wilt,25,150.0,Maharashtra,,High,
+436,2025-07-21,Potato,Unknown,-5,150.0,Punjab,,low,40.0
+437,,wheat,,,75.0,Maharashtra,clay,High,120.0
+19,,Rice,Brown Spot,30,60.0,punjab,Clay,High,25.0
+439,,Wheat,Rust,N/A,150.0,Haryana,clay,low,
+440,2026-05-20,Potato,Blast,35,60.0,Chhattisgarh,Clay,Medium,40.0
+441,,Wheat,,35,95.0,punjab,Clay,,120.0
+442,,rice ,Blast,30,,Chhattisgarh,Sandy,,-10.0
+443,,Tomato,Leaf Blight,,150.0,Maharashtra,Clay,,55.0
+54,2025-12-07,Tomato,Wilt,30,150.0,Haryana,Loamy,,-10.0
+445,2026-04-22,Tomato,Rust,-5,75.0,Maharashtra,Clay,Medium,120.0
+23,2025-08-06,wheat,Brown Spot,25,95.0,Chhattisgarh,clay,HIGH,25.0
+447,2025-06-12,wheat,Brown Spot,,85.0,Maharashtra,,High,25.0
+448,32-13-2025,Cotton,Leaf Blight,100,75.0,Chhattisgarh,clay,,55.0
+70,32-13-2025,Rice,Leaf Blight,30,85.0,punjab,Clay,HIGH,120.0
+450,2026-01-24,Cotton,Unknown,28,85.0,Maharashtra,Clay,High,10.0
+23,,Rice,Unknown,,75.0,Maharashtra,Clay,HIGH,-10.0
+69,32-13-2025,Maize,Rust,N/A,95.0,Chhattisgarh,clay,,25.0
+26,32-13-2025,Tomato,Unknown,100,150.0,punjab,Sandy,High,10.0
+454,2026-02-26,Wheat,Unknown,30,,Maharashtra,,Medium,55.0
+455,,Cotton,Wilt,-5,85.0,Punjab,clay,Low,25.0
+456,,Cotton,Wilt,25,60.0,Chhattisgarh,,Medium,55.0
+50,,Rice,Unknown,100,95.0,Maharashtra,Sandy,,-10.0
+458,,wheat,Unknown,-5,95.0,Maharashtra,Sandy,low,55.0
+89,2025-08-10,Tomato,Unknown,-5,,Chhattisgarh,Clay,,
+460,,rice ,Brown Spot,N/A,85.0,Punjab,clay,Medium,-10.0
+461,,Cotton,Late Blight,N/A,,Haryana,,,10.0
+90,,Maize,Late Blight,100,75.0,Haryana,clay,Low,120.0
+2,,Wheat,Brown Spot,100,75.0,Maharashtra,clay,low,10.0
+54,2025-08-04,Maize,Wilt,25,85.0,punjab,Loamy,High,10.0
+83,,rice ,Rust,-5,85.0,Chhattisgarh,Sandy,HIGH,40.0
+97,2025-11-11,Wheat,Brown Spot,,75.0,Haryana,clay,Low,
+467,2026-03-01,Tomato,Blast,N/A,75.0,Chhattisgarh,,low,40.0
+468,,Rice,Late Blight,-5,95.0,Punjab,,Low,55.0
+469,,Wheat,Late Blight,35,85.0,punjab,Loamy,Low,25.0
+470,32-13-2025,Maize,Blast,28,,Punjab,clay,,25.0
+87,32-13-2025,Cotton,,-5,75.0,Haryana,clay,,
+472,2025-06-11,Wheat,Rust,25,95.0,Maharashtra,,High,55.0
+473,2025-10-20,wheat,Brown Spot,35,60.0,Punjab,Loamy,High,25.0
+55,2026-02-16,wheat,Blast,25,85.0,Chhattisgarh,clay,High,
+97,32-13-2025,Wheat,,-5,75.0,punjab,Sandy,High,55.0
+476,2025-06-24,wheat,,30,85.0,punjab,clay,Low,-10.0
+477,32-13-2025,Potato,Rust,28,75.0,Punjab,Clay,,10.0
+478,,Tomato,Unknown,25,,Maharashtra,clay,HIGH,
+61,,Tomto,Brown Spot,100,95.0,Haryana,Loamy,low,55.0
+480,,Tomato,Late Blight,25,75.0,punjab,Clay,Low,10.0
+39,32-13-2025,Tomto,Brown Spot,30,75.0,Punjab,clay,,-10.0
+482,,Potato,Rust,28,60.0,punjab,Clay,Medium,-10.0
+483,32-13-2025,Wheat,Leaf Blight,30,85.0,punjab,Clay,low,10.0
+484,32-13-2025,Potato,Unknown,30,150.0,Punjab,,Medium,120.0
+37,2025-06-27,wheat,Rust,25,85.0,Haryana,Loamy,low,
+16,32-13-2025,Tomato,Wilt,35,150.0,Chhattisgarh,Sandy,HIGH,
+82,,Wheat,Leaf Blight,30,95.0,Maharashtra,,High,120.0
+488,2026-05-19,Tomto,Brown Spot,100,75.0,punjab,clay,,25.0
+489,,wheat,Rust,28,150.0,Chhattisgarh,,HIGH,120.0
+490,,Tomto,Late Blight,,85.0,punjab,clay,High,
+491,,rice ,Late Blight,25,75.0,punjab,Sandy,low,55.0
+72,,rice ,Unknown,25,85.0,punjab,clay,low,10.0
+493,,Wheat,Blast,,75.0,Haryana,clay,Medium,-10.0
+494,,Rice,Rust,,,Chhattisgarh,Sandy,Low,25.0
+495,32-13-2025,rice ,Blast,25,95.0,Haryana,Sandy,low,25.0
+496,,Rice,Blast,25,75.0,Haryana,,,25.0
+27,2025-09-16,Tomto,Blast,,,punjab,Clay,High,-10.0
+498,2026-02-16,Tomto,Blast,28,150.0,Maharashtra,clay,HIGH,
+46,,Potato,Blast,25,60.0,Chhattisgarh,Sandy,low,55.0
+27,2025-09-03,Maize,Brown Spot,25,60.0,Chhattisgarh,Clay,Low,10.0
+501,2026-04-05,Tomto,Late Blight,N/A,75.0,Haryana,Loamy,low,55.0
+502,2025-11-19,Wheat,Brown Spot,25,95.0,Maharashtra,Sandy,low,55.0
+503,2025-05-24,rice ,Leaf Blight,,60.0,Chhattisgarh,,low,-10.0
+64,,wheat,Rust,,85.0,Punjab,Sandy,HIGH,
+505,2025-12-04,Maize,Wilt,,95.0,Chhattisgarh,clay,HIGH,120.0
+39,,Rice,Wilt,,75.0,punjab,clay,,40.0
+507,,rice ,Brown Spot,100,60.0,Chhattisgarh,clay,Low,10.0
+100,2025-08-01,Tomto,Rust,100,75.0,Maharashtra,Loamy,High,120.0
+31,2026-05-03,Wheat,,100,85.0,Haryana,,low,120.0
+83,,rice ,Wilt,28,85.0,Chhattisgarh,Sandy,,10.0
+54,,Tomato,,,,Punjab,Clay,,25.0
+512,,Cotton,Late Blight,-5,75.0,Maharashtra,,,
+44,,Potato,Leaf Blight,30,,Chhattisgarh,,low,10.0
+97,,Tomato,Unknown,25,85.0,Maharashtra,clay,,10.0
+515,,wheat,Late Blight,28,150.0,Maharashtra,Clay,low,-10.0
+93,,Rice,Leaf Blight,30,150.0,Maharashtra,,Medium,-10.0
+62,2025-09-02,Tomato,Unknown,100,75.0,punjab,Sandy,Low,-10.0
+518,32-13-2025,Rice,Brown Spot,,75.0,Maharashtra,Clay,,-10.0
+519,32-13-2025,wheat,Rust,28,75.0,punjab,Sandy,HIGH,25.0
+520,,Cotton,Rust,,60.0,Maharashtra,,Medium,55.0
+29,32-13-2025,Tomato,Leaf Blight,28,85.0,Haryana,,low,55.0
+17,,Rice,Rust,100,95.0,punjab,clay,Low,55.0
+523,32-13-2025,Potato,Unknown,100,95.0,Maharashtra,Loamy,HIGH,
+25,2026-03-25,rice ,Blast,-5,95.0,Maharashtra,clay,Medium,55.0
+525,,Wheat,Brown Spot,,95.0,punjab,Loamy,High,-10.0
+526,,Rice,,100,60.0,Punjab,Sandy,HIGH,55.0
+527,,Rice,Leaf Blight,-5,60.0,Maharashtra,Loamy,Medium,-10.0
+528,2025-09-08,Tomto,,N/A,95.0,Punjab,,,-10.0
+32,32-13-2025,Tomto,Late Blight,-5,,punjab,Loamy,Medium,-10.0
+58,,Tomto,Late Blight,-5,95.0,Maharashtra,clay,low,40.0
+531,32-13-2025,Wheat,Late Blight,30,95.0,Chhattisgarh,,Low,-10.0
+88,,Tomto,Brown Spot,-5,95.0,Maharashtra,Sandy,low,55.0
+533,2026-03-15,Cotton,Blast,,75.0,Chhattisgarh,Clay,,40.0
+534,,Wheat,Wilt,,150.0,Haryana,clay,low,10.0
+535,,Tomto,Wilt,100,95.0,Punjab,Sandy,HIGH,55.0
+51,,Potato,Blast,,85.0,Chhattisgarh,Loamy,Medium,40.0
+537,,Tomato,Late Blight,30,85.0,Punjab,clay,High,10.0
+538,,Potato,Rust,25,150.0,punjab,Sandy,Medium,-10.0
+539,,Tomto,Brown Spot,30,75.0,punjab,clay,Medium,
+540,,Potato,Rust,,85.0,punjab,,low,
+541,,Maize,Blast,100,95.0,Punjab,Loamy,low,10.0
+542,,rice ,Brown Spot,100,,punjab,Sandy,HIGH,40.0
+543,,Cotton,Leaf Blight,35,150.0,Punjab,Clay,Medium,55.0
+544,,Potato,,35,75.0,punjab,,High,-10.0
+23,,rice ,Blast,30,60.0,Maharashtra,clay,Medium,40.0
+71,32-13-2025,Potato,Blast,30,85.0,Chhattisgarh,Loamy,low,25.0
+547,,Cotton,Leaf Blight,N/A,60.0,Chhattisgarh,Clay,,120.0
+548,,Cotton,Brown Spot,25,85.0,punjab,Clay,Low,25.0
+25,,Tomato,Rust,-5,95.0,Punjab,Loamy,low,
+550,2025-07-04,Tomto,Late Blight,,60.0,Punjab,,Medium,40.0
